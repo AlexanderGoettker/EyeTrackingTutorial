@@ -1,5 +1,5 @@
-# EyeTrackingTutorial by Alexander Goettker
-(last updated 07-24)
+# EyeTrackingTutorial 
+(by Alexander Goettker, last updated 07-24)
 
 In this project you will find an  tutorial that teaches the basics of eye tracking analysis and an example of how to run an experiment that includes eye tracking. 
 
