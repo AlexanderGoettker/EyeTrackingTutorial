@@ -26,3 +26,5 @@ In more detail the tutorial contains:
 
 (8) Region of Interest Analyses for Images
 
+(9) Fixation patterns and fixation statistics
+
